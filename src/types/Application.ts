@@ -7,7 +7,7 @@ export type Navlink = {
 }
 
 export type Hotel = {
-      "id": number
+      "id": string
       "url": string
       "deeplink": string
       "position": number
